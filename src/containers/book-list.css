@@ -1,0 +1,12 @@
+.list-group-item {
+  border-radius: 5px;
+  box-shadow: 3px 3px #eee;
+  margin: 10px;
+  padding: 10px;
+}
+
+.list-group-item:hover {
+  background-color: #dddfff;
+  cursor: pointer;
+  box-shadow: 5px 5px #ccc;
+}
